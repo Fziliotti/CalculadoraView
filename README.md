@@ -1,8 +1,7 @@
-# vue-calculator
-A Vue-based implementation of a standard four-function calculator, styled
-after the Calculator that ships with macOS.
+# CalculadoraVue
+Just a simple project to trainning Vue lib, the functions are based in a pullRequest in project of https://github.com/codyseibert/vue-calculator
 
-## Installation
+## Instalação
 ### With npm:
 ```
 npm install
