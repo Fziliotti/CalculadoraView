@@ -1,7 +1,7 @@
-# CalculadoraVue
+# Vue Calculator
 Just a simple project to trainning Vue lib, the functions are based in a pullRequest in project of https://github.com/codyseibert/vue-calculator
 
-## Instalação
+## Instalation
 ### With npm:
 ```
 npm install
