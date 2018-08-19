@@ -1,5 +1,6 @@
 'use strict';
 
+//  O FRAMEWORK DE ASSEÇÃO UTILIZADO É O CHAI
 import { expect } from 'chai';
 import Calculator from '../../src/lib/Calculator';
 
