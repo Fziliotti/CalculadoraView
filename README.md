@@ -1,6 +1,8 @@
 # Vue Calculator
 Just a simple project to trainning Vue lib, the functions are based in a pullRequest in project of https://github.com/codyseibert/vue-calculator
 
+I have used CSS GridLayout to design the component.
+
 ## Instalation
 ### With npm:
 ```
