@@ -4,8 +4,9 @@
 ```
 npm install
 or yarn install
-
+```
 ## Rodar o projeto em modo de desenvolvimento
+
 ```
 npm run serve
 ```
