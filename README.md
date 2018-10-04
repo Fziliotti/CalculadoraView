@@ -16,6 +16,11 @@ npm run serve
 npm t
 ```
 
+## Observação
+```
+É necessário ter o Nodejs instalado no computador, juntamente com o npm ou yarn =)
+
+```
 ## Imagem do App criado
 ![Image App](imageApp/tela.jpg)
 
