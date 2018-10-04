@@ -1,29 +1,20 @@
 # Vue Calculator
-Just a simple project to trainning Vue lib, the functions are based in a pullRequest in project of https://github.com/codyseibert/vue-calculator
-
-I have used CSS GridLayout to design the component.
-
-## Instalation
-### With npm:
+## Instalação
+### Com npm ou yarn:
 ```
 npm install
-```
+or yarn install
 
-### With yarn:
-```
-yarn install
-```
-
-## Running the app in development mode
+## Rodar o projeto em modo de desenvolvimento
 ```
 npm run serve
 ```
 
-## Run tests
+## Rodar os testes
 ```
 npm t
 ```
 
-## Image App
+## Imagem do App criado
 ![Image App](imageApp/tela.jpg)
 
